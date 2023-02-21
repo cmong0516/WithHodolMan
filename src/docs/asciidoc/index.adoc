@@ -1,0 +1,32 @@
+= MongLog API
+:toc:
+
+== 글 단건 조회
+
+=== 요청
+
+include::{snippets}/post-inquiry/http-request.adoc[]
+
+include::{snippets}/post-inquiry/path-parameters.adoc[]
+
+
+=== 응답
+
+include::{snippets}/post-inquiry/http-response.adoc[]
+
+include::{snippets}/post-inquiry/response-fields.adoc[]
+
+== 글 작성
+
+=== 요청
+
+include::{snippets}/post-create/http-request.adoc[]
+
+include::{snippets}/post-create/request-fields.adoc[]
+
+
+=== 응답
+
+include::{snippets}/post-create/http-response.adoc[]
+
+// asciidocs 문법 참조하여 커스터마이징 가능.
