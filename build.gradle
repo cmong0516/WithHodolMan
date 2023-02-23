@@ -72,6 +72,8 @@ bootJar{
 	}
 }
 
+// 사용하지 않는 jar 파일 생성하지 않음
+
 jar{
 	enabled = false
 }
